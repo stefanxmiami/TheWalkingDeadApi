@@ -55,7 +55,7 @@ public class Character {
     // Narrative Importance
     private String narrativeRole;
 
-    /*// Memorable Quotes
+    // Memorable Quotes
     @ElementCollection // This annotation is used for storing a list of basic or embeddable types.
-    private List<String> memorableQuotes;*/
+    private List<String> memorableQuotes;
 }

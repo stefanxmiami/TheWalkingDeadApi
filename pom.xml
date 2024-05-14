@@ -14,7 +14,7 @@
     <name>TheWalkingDeadApi</name>
     <description>TheWalkingDeadApi</description>
     <properties>
-        <java.version>22</java.version>
+        <java.version>20</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -66,6 +66,7 @@
     </dependencies>
 
     <build>
+        <finalName>the-walking-dead-api-0.0.1-SNAPSHOT</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>

@@ -59,6 +59,4 @@ public class CharacterController {
         characterService.deleteCharacter(id);
         return ResponseEntity.ok().build();
     }
-
-    // Additional methods can be added here based on your needs
 }
